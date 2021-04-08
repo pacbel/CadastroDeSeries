@@ -2,20 +2,16 @@
 
 ## Criando uma APP de cadastro em memória
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+Neste sistema desenvolvemos uma interface de cadastro de séries.
+No projeto original, como os dados são armazenados em memória, era necessário digitar as séries cada vez que se iniciava o programa.
+Adicionei uma classe contendo dados de duas séries e o carregamento é feito automaticamente para que possamos testar com mais facilidade.
 
-## Contato
+##Carlos Pacheco
 
-Eliézer Zarpelão
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+{http://sobre.pacbel.com.br}
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
 
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+#Professor Eliézer Zarpelão
